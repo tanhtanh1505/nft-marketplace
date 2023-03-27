@@ -2,7 +2,9 @@
 
 ### Create project
 
-Create project IPFS in <a href="https://app.infura.io/dashboard">here</a>
+- Create project IPFS in <a href="https://app.infura.io/dashboard">here</a>
+
+- Create project in Ganache and link to <a href="truffle-config.js">truffle-config.js</a>
 
 ### Install requirement
 
